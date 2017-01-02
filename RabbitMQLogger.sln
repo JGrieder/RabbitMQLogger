@@ -14,7 +14,7 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "RabbitMQLogger", "src\Logge
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0A4733BB-975B-49BB-A08D-9389BF927480}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Integration", "Integration\Integration.xproj", "{F4A43BF8-2694-4DD2-BE00-D3E79E7F5DDA}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Integration", "tests\Integration\Integration.xproj", "{F4A43BF8-2694-4DD2-BE00-D3E79E7F5DDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
